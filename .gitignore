@@ -1,0 +1,13 @@
+# Base Template from IA Writer
+__MACOSX/
+
+# Incase uploaded the sample file
+Example*
+MLA*
+
+# something that should not be uploaded
+.DS_Store
+node_modules/
+
+# SASS
+*.map
