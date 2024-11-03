@@ -1,0 +1,16 @@
+{
+  "name": "loh_pit_ia-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass style.scss style.css",
+    "watch": "sass --watch style.scss:style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.80.6"
+  }
+}
